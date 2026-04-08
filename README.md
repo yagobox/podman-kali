@@ -57,6 +57,7 @@ podman exec -it kali /bin/bash
 | [nikto-guide.md](nikto-guide.md) | Nikto: web server vulnerability scanning, plugins, tuning, IDS evasion, output formats |
 | [john-guide.md](john-guide.md) | John the Ripper: hash cracking, wordlist/brute force/single modes, file hash extraction (ZIP, SSH, PDF...) |
 | [hashcat-guide.md](hashcat-guide.md) | Hashcat: GPU-accelerated cracking, mask attacks, hybrid modes, rules, WPA2/NTLM/bcrypt |
+| [aircrack-guide.md](aircrack-guide.md) | Aircrack-ng: Wi-Fi monitor mode, WPA2 handshake capture, WEP/WPA cracking, PMKID attack |
 
 ## License
 
