@@ -53,6 +53,7 @@ podman exec -it kali /bin/bash
 | [wireshark-guide.md](wireshark-guide.md) | Wireshark & TShark in Kali Linux: packet capture, display filters, traffic analysis, and export |
 | [nmap-guide.md](nmap-guide.md) | Nmap: host discovery, port scanning, OS/version detection, NSE scripts, evasion techniques |
 | [metasploit-guide.md](metasploit-guide.md) | Metasploit: exploitation, Meterpreter, auxiliary modules, msfvenom payloads, session management |
+| [sqlmap-guide.md](sqlmap-guide.md) | SQLmap: SQL injection detection, database enumeration, dump, OS access, WAF evasion |
 
 ## License
 
