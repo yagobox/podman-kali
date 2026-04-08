@@ -60,6 +60,7 @@ podman exec -it kali /bin/bash
 | [aircrack-guide.md](aircrack-guide.md) | Aircrack-ng: Wi-Fi monitor mode, WPA2 handshake capture, WEP/WPA cracking, PMKID attack |
 | [netcat-guide.md](netcat-guide.md) | Netcat: TCP/UDP connections, listeners, file transfer, reverse/bind shells, port scanning |
 | [gobuster-guide.md](gobuster-guide.md) | Gobuster: directory/file brute force, DNS subdomain enumeration, vhost and fuzz modes |
+| [burpsuite-guide.md](burpsuite-guide.md) | Burp Suite: proxy, Repeater, Intruder, Scanner, Decoder, extensions, full web testing workflow |
 
 ## License
 
