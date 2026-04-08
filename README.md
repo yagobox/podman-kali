@@ -55,6 +55,7 @@ podman exec -it kali /bin/bash
 | [metasploit-guide.md](metasploit-guide.md) | Metasploit: exploitation, Meterpreter, auxiliary modules, msfvenom payloads, session management |
 | [sqlmap-guide.md](sqlmap-guide.md) | SQLmap: SQL injection detection, database enumeration, dump, OS access, WAF evasion |
 | [nikto-guide.md](nikto-guide.md) | Nikto: web server vulnerability scanning, plugins, tuning, IDS evasion, output formats |
+| [john-guide.md](john-guide.md) | John the Ripper: hash cracking, wordlist/brute force/single modes, file hash extraction (ZIP, SSH, PDF...) |
 
 ## License
 
