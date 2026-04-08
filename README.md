@@ -59,6 +59,7 @@ podman exec -it kali /bin/bash
 | [hashcat-guide.md](hashcat-guide.md) | Hashcat: GPU-accelerated cracking, mask attacks, hybrid modes, rules, WPA2/NTLM/bcrypt |
 | [aircrack-guide.md](aircrack-guide.md) | Aircrack-ng: Wi-Fi monitor mode, WPA2 handshake capture, WEP/WPA cracking, PMKID attack |
 | [netcat-guide.md](netcat-guide.md) | Netcat: TCP/UDP connections, listeners, file transfer, reverse/bind shells, port scanning |
+| [gobuster-guide.md](gobuster-guide.md) | Gobuster: directory/file brute force, DNS subdomain enumeration, vhost and fuzz modes |
 
 ## License
 
