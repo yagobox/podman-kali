@@ -54,6 +54,7 @@ podman exec -it kali /bin/bash
 | [nmap-guide.md](nmap-guide.md) | Nmap: host discovery, port scanning, OS/version detection, NSE scripts, evasion techniques |
 | [metasploit-guide.md](metasploit-guide.md) | Metasploit: exploitation, Meterpreter, auxiliary modules, msfvenom payloads, session management |
 | [sqlmap-guide.md](sqlmap-guide.md) | SQLmap: SQL injection detection, database enumeration, dump, OS access, WAF evasion |
+| [nikto-guide.md](nikto-guide.md) | Nikto: web server vulnerability scanning, plugins, tuning, IDS evasion, output formats |
 
 ## License
 
