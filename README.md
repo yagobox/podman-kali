@@ -58,6 +58,7 @@ podman exec -it kali /bin/bash
 | [john-guide.md](john-guide.md) | John the Ripper: hash cracking, wordlist/brute force/single modes, file hash extraction (ZIP, SSH, PDF...) |
 | [hashcat-guide.md](hashcat-guide.md) | Hashcat: GPU-accelerated cracking, mask attacks, hybrid modes, rules, WPA2/NTLM/bcrypt |
 | [aircrack-guide.md](aircrack-guide.md) | Aircrack-ng: Wi-Fi monitor mode, WPA2 handshake capture, WEP/WPA cracking, PMKID attack |
+| [netcat-guide.md](netcat-guide.md) | Netcat: TCP/UDP connections, listeners, file transfer, reverse/bind shells, port scanning |
 
 ## License
 
