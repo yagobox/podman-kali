@@ -56,6 +56,7 @@ podman exec -it kali /bin/bash
 | [sqlmap-guide.md](sqlmap-guide.md) | SQLmap: SQL injection detection, database enumeration, dump, OS access, WAF evasion |
 | [nikto-guide.md](nikto-guide.md) | Nikto: web server vulnerability scanning, plugins, tuning, IDS evasion, output formats |
 | [john-guide.md](john-guide.md) | John the Ripper: hash cracking, wordlist/brute force/single modes, file hash extraction (ZIP, SSH, PDF...) |
+| [hashcat-guide.md](hashcat-guide.md) | Hashcat: GPU-accelerated cracking, mask attacks, hybrid modes, rules, WPA2/NTLM/bcrypt |
 
 ## License
 
