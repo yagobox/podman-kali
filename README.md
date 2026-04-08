@@ -44,6 +44,13 @@ podman run -it --name kali kalilinux/kali-rolling /bin/bash
 podman exec -it kali /bin/bash
 ```
 
+## Guides
+
+| File | Description |
+|------|-------------|
+| [kali-podman.md](kali-podman.md) | Commands to run and manage Kali Linux via Podman, including error troubleshooting |
+| [hydra-guide.md](hydra-guide.md) | Hydra password-cracking tool: commands, protocols, brute force patterns, and full test examples |
+
 ## License
 
 This project is released under the [MIT License](https://opensource.org/licenses/MIT).
