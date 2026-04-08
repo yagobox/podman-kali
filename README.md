@@ -52,6 +52,7 @@ podman exec -it kali /bin/bash
 | [hydra-guide.md](hydra-guide.md) | Hydra password-cracking tool: commands, protocols, brute force patterns, and full test examples |
 | [wireshark-guide.md](wireshark-guide.md) | Wireshark & TShark in Kali Linux: packet capture, display filters, traffic analysis, and export |
 | [nmap-guide.md](nmap-guide.md) | Nmap: host discovery, port scanning, OS/version detection, NSE scripts, evasion techniques |
+| [metasploit-guide.md](metasploit-guide.md) | Metasploit: exploitation, Meterpreter, auxiliary modules, msfvenom payloads, session management |
 
 ## License
 
