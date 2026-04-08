@@ -50,6 +50,7 @@ podman exec -it kali /bin/bash
 |------|-------------|
 | [kali-podman.md](kali-podman.md) | Commands to run and manage Kali Linux via Podman, including error troubleshooting |
 | [hydra-guide.md](hydra-guide.md) | Hydra password-cracking tool: commands, protocols, brute force patterns, and full test examples |
+| [wireshark-guide.md](wireshark-guide.md) | Wireshark & TShark in Kali Linux: packet capture, display filters, traffic analysis, and export |
 
 ## License
 
